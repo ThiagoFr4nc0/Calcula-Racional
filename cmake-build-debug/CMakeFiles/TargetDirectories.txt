@@ -1,0 +1,3 @@
+/home/squads/racional/racional (1) (1)/racional/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/squads/racional/racional (1) (1)/racional/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/squads/racional/racional (1) (1)/racional/cmake-build-debug/CMakeFiles/racional.dir
