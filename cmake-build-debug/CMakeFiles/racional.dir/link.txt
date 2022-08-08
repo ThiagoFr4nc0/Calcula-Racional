@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/racional.dir/main.c.o CMakeFiles/racional.dir/racional.c.o CMakeFiles/racional.dir/utilitarios.c.o -o racional 
